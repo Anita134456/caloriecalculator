@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a83deaed-e103-4df5-9871-db685fb002b4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2aUzfe3UxLOm4kUXTLHktcw8rAb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CourseServiceTest (1).executor": "Coverage",
+    "JUnit.CourseServiceTest.executor": "Coverage",
+    "JUnit.CourseServiceTest.testGetAverageRating.executor": "Coverage",
+    "JUnit.CourseTest.executor": "Coverage",
+    "JUnit.FeedbackServiceTest.executor": "Coverage",
+    "JUnit.FeedbackTest.executor": "Coverage",
+    "JUnit.HomeControllerTest (1).executor": "Coverage",
+    "JUnit.HomeControllerTest.executor": "Coverage",
+    "JUnit.StudentCourseIdTest.executor": "Coverage",
+    "JUnit.StudentCourseTest.executor": "Coverage",
+    "JUnit.StudentServiceTest.executor": "Coverage",
+    "JUnit.StudentTest.executor": "Run",
+    "JUnit.UniversityProjectApplicationTest.executor": "Coverage",
+    "JUnit.UniversityProjectApplicationTests.executor": "Coverage",
+    "JUnit.UniversityProjectApplicationTests.testAddFeedback.executor": "Coverage",
+    "JUnit.university_project in university_project.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.UniversityProjectApplication.executor": "Run",
+    "TestNG.LoginStudentTest.executor": "Coverage",
+    "TestNG.LoginStudentTest.testGettersAndSetters.executor": "Coverage",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/Ralfi/Desktop/Rate_University_Project/src/test/java",
+    "last_opened_file_path": "C:/Users/BerdynaTech/Desktop/Rate_University_Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Rate_University_Application.university_project.models" />
+      <recent name="Rate_University_Application.university_project.services" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Rate_University_Application.university_project.models" />
+      <recent name="Rate_University_Application.university_project.services" />
+      <recent name="Rate_University_Application.university_project.controllers" />
+      <recent name="Rate_University_Application.university_project" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FeedbackServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="university_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rate_University_Application.university_project.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Rate_University_Application.university_project.services" />
+      <option name="MAIN_CLASS_NAME" value="Rate_University_Application.university_project.services.FeedbackServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeedbackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="university_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rate_University_Application.university_project.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Rate_University_Application.university_project.models" />
+      <option name="MAIN_CLASS_NAME" value="Rate_University_Application.university_project.models.FeedbackTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="university_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rate_University_Application.university_project.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Rate_University_Application.university_project.controllers" />
+      <option name="MAIN_CLASS_NAME" value="Rate_University_Application.university_project.controllers.HomeControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="university_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rate_University_Application.university_project.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Rate_University_Application.university_project.services" />
+      <option name="MAIN_CLASS_NAME" value="Rate_University_Application.university_project.services.StudentServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="university_project in university_project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="university_project" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/Rate_University_Application/university_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UniversityProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="university_project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="Rate_University_Application.university_project.UniversityProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.university_project in university_project" />
+        <item itemvalue="JUnit.FeedbackServiceTest" />
+        <item itemvalue="JUnit.FeedbackTest" />
+        <item itemvalue="JUnit.HomeControllerTest" />
+        <item itemvalue="JUnit.StudentServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a83deaed-e103-4df5-9871-db685fb002b4" name="Changes" comment="" />
+      <created>1704388056202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704388056202</updated>
+      <workItem from="1705064047586" duration="447000" />
+      <workItem from="1705064550301" duration="517000" />
+      <workItem from="1705142306139" duration="655000" />
+      <workItem from="1705146514317" duration="11089000" />
+      <workItem from="1705324016900" duration="792000" />
+      <workItem from="1705325680225" duration="1000" />
+      <workItem from="1705327112802" duration="982000" />
+      <workItem from="1705400409033" duration="690000" />
+      <workItem from="1705418596759" duration="50000" />
+      <workItem from="1705418711998" duration="54000" />
+      <workItem from="1705418785755" duration="167000" />
+      <workItem from="1705422263459" duration="1689000" />
+      <workItem from="1705534965654" duration="404000" />
+      <workItem from="1705535386483" duration="607000" />
+      <workItem from="1705684102536" duration="14209000" />
+      <workItem from="1705763288323" duration="651000" />
+      <workItem from="1705766187699" duration="325000" />
+      <workItem from="1705871394676" duration="77000" />
+      <workItem from="1706284670472" duration="3000" />
+      <workItem from="1706453653219" duration="65000" />
+      <workItem from="1736968694607" duration="651000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Rate_University_Project$HomeControllerTest__1_.ic" NAME="HomeControllerTest (1) Coverage Results" MODIFIED="1705686925159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rate_University_Application.university_project.controllersTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Rate_University_Project$university_project_in_university_project.ic" NAME="university_project in university_project Coverage Results" MODIFIED="1705763347401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Rate_University_Project$LoginStudentTest.ic" NAME="LoginStudentTest Coverage Results" MODIFIED="1705694754219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rate_University_Application.university_project.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Rate_University_Project$StudentCourseTest.ic" NAME="StudentCourseTest Coverage Results" MODIFIED="1705692108589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rate_University_Application.university_project.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Rate_University_Project$HomeControllerTest.ic" NAME="HomeControllerTest Coverage Results" MODIFIED="1705695658010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rate_University_Application.university_project.controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Rate_University_Project$CourseServiceTest.ic" NAME="CourseServiceTest Coverage Results" MODIFIED="1705694832088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rate_University_Application.university_project.services.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Rate_University_Project$FeedbackServiceTest.ic" NAME="FeedbackServiceTest Coverage Results" MODIFIED="1705696636505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rate_University_Application.university_project.services.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Rate_University_Project$UniversityProjectApplicationTest.ic" NAME="UniversityProjectApplicationTest Coverage Results" MODIFIED="1705694548103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rate_University_Application.university_project.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Rate_University_Project$StudentCourseIdTest.ic" NAME="StudentCourseIdTest Coverage Results" MODIFIED="1705694645103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rate_University_Application.university_project.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Rate_University_Project$LoginStudentTest_testGettersAndSetters.ic" NAME="LoginStudentTest.testGettersAndSetters Coverage Results" MODIFIED="1705691676291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rate_University_Application.university_project.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Rate_University_Project$CourseServiceTest__1_.ic" NAME="CourseServiceTest (1) Coverage Results" MODIFIED="1705689965888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rate_University_Application.university_project.services.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Rate_University_Project$StudentServiceTest.ic" NAME="StudentServiceTest Coverage Results" MODIFIED="1705695015157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rate_University_Application.university_project.services.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Rate_University_Project$StudentTest.ic" NAME="StudentTest Coverage Results" MODIFIED="1705690352822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rate_University_Application.university_project.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Rate_University_Project$CourseTest.ic" NAME="CourseTest Coverage Results" MODIFIED="1705690576129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rate_University_Application.university_project.models.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Rate_University_Project$UniversityProjectApplicationTests_testAddFeedback.ic" NAME="UniversityProjectApplicationTests.testAddFeedback Coverage Results" MODIFIED="1705684236302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rate_University_Application.university_project.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Rate_University_Project$UniversityProjectApplicationTests.ic" NAME="UniversityProjectApplicationTests Coverage Results" MODIFIED="1705690235429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rate_University_Application.university_project.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Rate_University_Project$FeedbackTest.ic" NAME="FeedbackTest Coverage Results" MODIFIED="1705696001962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rate_University_Application.university_project.models.*</FILTER>
+    </SUITE>
+  </component>
+</project>
